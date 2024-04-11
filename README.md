@@ -7,7 +7,7 @@
 
 ## Build
 ```bash
-make SIMULATION=prep
+make SIMULATION=native prep
 make
 make install
 ```
